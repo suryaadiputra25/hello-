@@ -1,0 +1,2 @@
+# hello-
+&lt;html> &lt;head>     &lt;title>Hello World&lt;/title>     &lt;style>         h1{             color:blue;             font-family:'Freestyle Script';         }         p{             color:red;             font-family:monospace;                   }     &lt;/style> &lt;/head> &lt;body>     &lt;h1>Hi,nama saya Aditya Wisnu Pangarso&lt;/h1>     &lt;p>Saya Berkuliah di Unusida&lt;/p>     &lt;p>Prodi Teknik Informatika Angkatan 2021&lt;/p> &lt;/body> &lt;/html>
